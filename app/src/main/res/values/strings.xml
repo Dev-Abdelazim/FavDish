@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">FavDish</string>
+    <string name="title_all_dishes">All Dishes</string>
+    <string name="title_favorite_dishes">Favorite</string>
+    <string name="title_random_dish">Random Dish</string>
+    <string name="intro_title">Fav Dish</string>
+    <string name="add_dish">Add Dish</string>
+    <string name="add_dish_toolbar_title">Add Dish</string>
+    <string name="add_image_content">Dish image</string>
+    <string name="title_hint">Title</string>
+    <string name="category_hint">Category</string>
+    <string name="type_hint">Type</string>
+    <string name="ingredients_hint">Ingredients</string>
+    <string name="cook_time_hint">Cooking Time In Minutes</string>
+    <string name="direction_hint">Direction To Cook</string>
+    <string name="title_select_image_action">Select Image Action</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="permission_denied_massage">It Looks Like you have turned off permissions required for this feature, It can be enabled under application settings</string>
+    <string name="permission_alert_dialog_title">Required Permissions</string>
+    <string name="permission_positive_button_title">GO TO SETTINGS</string>
+    <string name="application_package_error_massage">Can\'t find the Application Package, Please go to settings and access all Permission manual</string>
+    <string name="permission_negative_button_title">Cancel</string>
+    <string name="title_select_dish_type">SELECT DISH TYPE</string>
+    <string name="title_select_dish_category">SELECT DISH CATEGORY</string>
+    <string name="err_msg_select_dish_image">Select dish image</string>
+    <string name="err_msg_enter_dish_titel">Enter Dish Title.</string>
+    <string name="err_msg_select_dish_type">Select dish type</string>
+    <string name="err_msg_select_dish_category">Select dish category</string>
+    <string name="err_msg_enter_dish_cook_time">Enter dish cook time</string>
+    <string name="err_msg_enter_dish_instructions">Enter dish cooking instructions.</string>
+    <string name="err_msg_enter_dish_ingredients">Enter dish ingredients</string>
+    <string name="save_dish_msg">You successfully added your favorite dish details.</string>
+    <string name="update_dish_msg">You successfully update your favorite dish details.</string>
+    <string name="label_no_dishes_added_yet">No dishes added yet!!</string>
+    <string name="image_content_description">dish image</string>
+
+
+    <string name="title_dish_details">Dish Details</string>
+    <string name="dish_details_image_description">Dish Image</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="ingredients_label">Ingredients</string>
+    <string name="lbl_estimate_cooking_time">The approx time required to cook the dish is %1$s minutes.</string>
+    <string name="lbl_direction_to_cook">Direction To Cook</string>
+    <string name="msg_added_to_favorites">You have added the dish to your favorite.</string>
+    <string name="msg_remove_from_favorites">You have removed the dish from your favorite.</string>
+    <string name="label_no_fav_dishes_added_yet">No favorite dishes added yet!!</string>
+    <string name="edit_dish">EDIT DISH</string>
+    <string name="delete_dish">DELETE DISH</string>
+    <string name="more_menu_icon_disc">More Icon</string>
+    <string name="edit_dish_toolbar_title">Edit Dish</string>
+    <string name="lbl_update_dish">Update Dish</string>
+
+    <string name="delete_alert_dialog_title">Delete Dish</string>
+    <string name="delete_alert_dialog_msg">Ary you sure you wants to delete %1$s?</string>
+    <string name="delete_alert_dialog_cancel_button_text">No</string>
+    <string name="delete_alert_dialog_delete_button_text">Yes</string>
+    <string name="title_select_item_to_filter">SELECT ITEM TO FILTER</string>
+    <string name="filter_dishes">Filter Dishes</string>
+    <string name="add_to_your_dishes_successfully">Add To your Dishes Successfully</string>
+
+    <string name="msg_already_saved">You have already saved the  dish to your dishes</string>
+    <string name="please_waite">Please waite&#8230;</string>
+    <string name="action_share_icon">Share Icon</string>
+    
+    <string name="notification_title">Checkout new dish recipes</string>
+    <string name="notification_subtitle">Tap for more details</string>
+</resources>

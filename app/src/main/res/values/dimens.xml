@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="intro_text_size">50sp</dimen>
+    <dimen name="scroll_view_height">0dp</dimen>
+    <dimen name="l_main_height">0dp</dimen>
+    <dimen name="dish_image_view_height">250dp</dimen>
+    <dimen name="dish_add_image_icon_padding">16dp</dimen>
+    <dimen name="dish_ll_text_fields_padding">16.dp</dimen>
+    <dimen name="dish_input_field_margin">10dp</dimen>
+    <dimen name="add_dish_button_margin">10dp</dimen>
+    <dimen name="add_dish_button_padding">16dp</dimen>
+    <dimen name="dialog_select_image_action_text_size">16sp</dimen>
+    <dimen name="camera_gallery_text_size">15sp</dimen>
+</resources>
